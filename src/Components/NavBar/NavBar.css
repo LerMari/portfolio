@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Playfair+Display:wght@600&display=swap');
+
+
+
+#navlinks {
+    color: #aaaf99;
+    width: 25%;
+    /* border-right: solid 1px blue; */
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 800px;
+    padding-left: 70px;
+    font-family: 'Nunito', sans-serif;
+
+}

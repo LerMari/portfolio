@@ -1,1 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
+body {
+  background-color: #f7e6d3;
+  color: #c3846b;
+  height: 100%;
+}
+
+#name{
+  /* border: solid 1px red; */
+  height: 100%;
+  font-size: 280px;
+  text-align: end;
+  font-family: 'Playfair Display', serif;
+  position: absolute;
+  right: 0px;
+  top: 50px;
+  z-index: -1;
+}
