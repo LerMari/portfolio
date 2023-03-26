@@ -12,5 +12,9 @@
     height: 800px;
     padding-left: 70px;
     font-family: 'Nunito', sans-serif;
+}
 
+#navlinks :hover {
+    color: white;
+    cursor: pointer;
 }
